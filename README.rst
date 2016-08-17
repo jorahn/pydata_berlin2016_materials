@@ -16,7 +16,7 @@ Julia Evans, How to trick a neural network
 - http://jvns.ca/blog/2016/05/21/a-few-notes-from-my-pydata-berlin-keynote/
 
 
-We McKinney, Python Data Ecosystem: Thoughts on Building for the Future
+Wes McKinney, Python Data Ecosystem: Thoughts on Building for the Future
 
 - http://de.slideshare.net/wesm/python-data-ecosystem-thoughts-on-building-for-the-future
 
